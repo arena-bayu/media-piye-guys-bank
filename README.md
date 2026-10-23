@@ -5,4 +5,4 @@ Repo ini publik karena Instagram mengambil gambar dari URL publik (GitHub Pages)
 
 Isi dibuat otomatis oleh repo redaksi `claude-jawa-meme` lewat skill `/jadwal`. Jangan menyimpan data pribadi atau rahasia di sini.
 
-Struktur: `YYYY-Www/<id-meme>.jpg`
+Struktur: `YYYY-Www/<kategori>-<nomor>.jpg`, satu folder per minggu tayang.
